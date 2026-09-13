@@ -10,16 +10,16 @@ A Flutter and Firebase-based school records and examination management system, d
 
 ## Overview
 
-Educational institutions managing hundreds of students across multiple classes, sections, and subjects face a significant operational burden in maintaining accurate records, tracking examination performance, and producing timely academic reports. Manual or spreadsheet-driven systems are error-prone, difficult to scale, and slow to produce consolidated results.
+Educational institutions managing hundreds of students across multiple classes, sections, and subjects face a significant operational burden in maintaining accurate records, tracking examination performance, and producing timely academic reports.
 
 This system was built to address those challenges by providing:
 
-- **Centralized student and teacher record management** with structured class, section, and subject hierarchies
-- **Teacher-scoped examination workflows** where teachers enter marks only for their assigned classes and sections
-- **Automated result computation** including percentage calculation, 14-tier grade classification, and pass/fail determination
-- **PDF report-card generation** with in-memory rendering and instant preview/print/share capabilities
-
-The application is a focused records and examination management solution. It is **not** a full-scale school ERP — it does not include modules for attendance, fee collection, timetabling, homework, parent portals, messaging, or transport management.
+- **Centralized student and teacher record management**
+- **Teacher-scoped examination workflows** 
+- **Automated result computation**
+- **PDF report-card generation**
+  
+The application is a focused records and examination management solution.
 
 ---
 
