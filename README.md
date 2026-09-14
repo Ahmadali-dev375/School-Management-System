@@ -213,6 +213,6 @@ This repository presents the architectural design, Flutter engineering patterns,
 
 ---
 
-## Author
+## 👨‍💻 Author
 
 **Ahmad Ali**
